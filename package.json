@@ -1,0 +1,22 @@
+{
+  "name": "cruise-ships",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjrobbie/cruise-ships.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjrobbie/cruise-ships/issues"
+  },
+  "homepage": "https://github.com/rjrobbie/cruise-ships#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
